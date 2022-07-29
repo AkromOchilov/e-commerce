@@ -126,6 +126,7 @@
 	border: none;
 	outline: none;
 	background-color: transparent;
+	
 
 	&::placeholder {
 		@include opensans(400, 14px, 19px);
